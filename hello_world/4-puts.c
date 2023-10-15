@@ -6,8 +6,9 @@
 	 * Description: Uses the main function to display
 	 * "Programming is like building a puzzle".
 	 *
-	 * Return:Always returns 0 (success)
-	 * */
+	 * Return: Always returns 0 (success)
+	 *
+	 */
 	int main(void)
 
 	{
