@@ -6,7 +6,10 @@
  * Description:  this function prints the size of various types on the computer
  */
 
-int main(void)//fonction main
+int main(void)	
+	/*
+	 * fonction main
+	 */
 
 {
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
