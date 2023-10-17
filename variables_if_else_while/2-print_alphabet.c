@@ -3,7 +3,7 @@
 /**
  * main - prints the alphabet in lowercase
  *
- * Description: using the main function, 
+ * Description: using the main function,
  * this program prints the alphabet in lowercase
  *
  * Return: 0
