@@ -6,7 +6,7 @@
  * Description:  this function prints the size of various types on the computer
  */
 
-int main(void)	
+int main(void)
 /*
 * fonction main
 */
