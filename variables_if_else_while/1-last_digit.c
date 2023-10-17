@@ -5,7 +5,7 @@
 /**
  * main - prints the last digit of ther number stored in the variable
  *
- *Description:using the main function 
+ *Description: using the main function
  *this program prints the last digit and a comment
  */
 
