@@ -7,9 +7,9 @@
  */
 
 int main(void)	
-	/*
-	 * fonction main
-	 */
+/*
+* fonction main
+*/
 
 {
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
