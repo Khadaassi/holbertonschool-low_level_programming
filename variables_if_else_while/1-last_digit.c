@@ -7,7 +7,9 @@
  *
  *Description: using the main function
  *this program prints the last digit and a comment
-*/
+ *
+ * Return: 0
+ */
 
 int main(void)
 {
