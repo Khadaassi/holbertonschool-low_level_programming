@@ -3,7 +3,7 @@
 /**
  * main - prints _putchar followed by a new line
  *
- * Description: using the main function, print _putchar, 
+ * Description: using the main function, print _putchar,
  * followed by a new line.
  *
  * Return: 0
