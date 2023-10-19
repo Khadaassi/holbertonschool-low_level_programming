@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *_ abs - the absolute value of an integer
+ *_abs - the absolute value of an integer
  *
  * @c: is the int that will use for the function's argument
  *
