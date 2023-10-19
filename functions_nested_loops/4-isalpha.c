@@ -3,7 +3,7 @@
 /**
  * _isalpha - function ton check if c is a letter, lowercase or uppeercase
  *
- * c: is the int that will use for the argument of function
+ * @c: is the int that will use for the argument of function
  *
  * Return:0
  */
