@@ -3,7 +3,7 @@
 /**
  *_ abs - the absolute value of an integer
  *
- * Description c - is the int that will use for the function's argument
+ * @c: is the int that will use for the function's argument
  *
  * Return: 0
  */
