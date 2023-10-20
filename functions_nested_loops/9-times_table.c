@@ -13,7 +13,9 @@ void times_table(void)
 	for (i = 0; i <= 9; i++)
 
 	{
-		for (j = 0; j <= 9; j++)
+		printf("0,");
+
+		for (j = 1; j <= 9; j++)
 		{
 			if (j == 9)
 			{
