@@ -1,15 +1,14 @@
 #include <stdio.h>
 
-/*
- * main -  main - Displays the string using the printf function
+/**
+ * main - this function prints the of types.
  *
- * Description:  this function prints the size of various types on the computer
+ * Description: this function prints the size of various types on the computer
+ *
+ * Return:0
  */
 
 int main(void)
-/*
-* fonction main
-*/
 
 {
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
