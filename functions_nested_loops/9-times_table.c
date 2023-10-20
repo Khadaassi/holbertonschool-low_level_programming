@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- *time_table - function to print the time table
+ * times_table - function that prints the time table
+ *
+ * Description: using the function print the time tables starting with 0.
  */
 
 void times_table(void)
