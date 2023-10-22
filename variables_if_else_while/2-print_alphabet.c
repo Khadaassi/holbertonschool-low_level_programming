@@ -4,7 +4,7 @@
  * main - prints the alphabet in lowercase
  *
  * Description: using the main function,
- * this program prints the alphabet in lowercase
+ * this program prints the alphabet in lowercase 10 times
  *
  * Return: 0
  */
