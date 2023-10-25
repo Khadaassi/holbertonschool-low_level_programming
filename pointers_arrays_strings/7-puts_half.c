@@ -1,4 +1,6 @@
 #include "main.h"
+#include <string.h>
+
 /**
  * puts_half - function that prints the last half of a string
  *@str: strint of characters
