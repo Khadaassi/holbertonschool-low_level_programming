@@ -3,7 +3,7 @@
 /**
  * is_prime_number - function that cheack if a number is a prime number
  * @n: value of the number checked
- * @d: diviser
+ * Return: 0 or 1
  */
 
 int is_prime_number(int n)
@@ -23,6 +23,6 @@ int is_prime_number(int n)
 	{
 		return (1);
 	}
-	return is_prime_number(d + 1);
+	return (is_prime_number(d + 1));
 }
 
