@@ -1,24 +1,27 @@
 #include "main.h"
 /**
- * 
-*/
+ * _strdup - function 
+ * str: string of char
+ * new_str: new string
+ * Return:  a pointer to a newly allocated space in memory
+ */
 
 char *_strdup(char *str)
 {
-    char *new_str;
+	char *new_str;
 
-    if (str == NULL)
-    {
-        return (NULL);
-    }
-    new_str = (char *)malloc(strlen(str) + 1);
+	if (str == NULL)
+	{
+	return (NULL);
+	}
+	new_str = (char *)malloc(strlen(str) + 1);
 
-    if (new_str == NULL)
-    {
-        return (NULL);
-    }
+	if (new_str == NULL)
+	{
+	return (NULL);
+	}
 
-    strcpy(new_str, str);
+	strcpy(new_str, str);
 
-    return (new_str);
+	return (new_str);
 }
