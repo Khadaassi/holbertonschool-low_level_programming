@@ -5,18 +5,18 @@
 /**
  * free_grid - function that frees a 2D grid
  * @height: height of the array
+ * @grid: 2D array
 */
 void free_grid(int **grid, int height)
 {
-    int i;
+	int i;
 
-	if(grid != NULL)
-    {
-        for (i = 0; i < height; i++)
-	    {
-		    free(grid[i]);
-        }
-		
-		free(grid);
-    }
+	if (grid != NULL)
+	{
+		for (i = 0; i < height; i++)
+		{
+			free(grid[i]);
+		}
+			free(grid);
+	}
 }
