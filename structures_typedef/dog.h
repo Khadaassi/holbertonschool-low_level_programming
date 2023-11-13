@@ -1,9 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-struct dog 
+struct dog
+
 {
-    char *name;
-    float age;
-    char *owner;
-}
+	char *name;
+
+	float age;
+
+	char *owner;
+
+};
