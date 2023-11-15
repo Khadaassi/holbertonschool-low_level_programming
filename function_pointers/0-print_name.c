@@ -13,11 +13,5 @@
 void print_name(char *name, void (*f)(char *))
 {
 	f(name);
-
-	while (*name)
-	{
-		putchar(*name);
-		name++;
-	}
-	putchar('\n');
+	return;
 }
