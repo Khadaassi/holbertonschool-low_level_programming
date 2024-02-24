@@ -3,7 +3,7 @@
 *.json
 #main.c
 *-main.c
-2-main.c
+*main.c
 # Prerequisites
 *.d
 
@@ -71,3 +71,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+.devcontainer/
