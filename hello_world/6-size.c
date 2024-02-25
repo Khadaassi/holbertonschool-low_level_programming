@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - this function prints the of types.
+ * main - this function prints the size of types.
  *
- * Description: this function prints the size of various types on the computer
+ * Description: this function prints the size of various types on
+ * standard output.
  *
  * Return:0
  */
